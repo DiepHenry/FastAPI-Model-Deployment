@@ -1,0 +1,12 @@
+asyncpg
+fastapi
+uvicorn
+joblib
+pydantic
+scikit-learn
+SQLAlchemy
+databases[postgresql]
+
+# dev
+pytest
+requests
